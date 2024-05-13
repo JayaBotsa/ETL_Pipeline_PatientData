@@ -25,18 +25,6 @@ The following datasets are provided:
 - **Git:** Version control system for project management.
 - **Technologies:** Docker, cloud services, AirFlow, DBT were not used in this solution.
 
-## Folder Structure
-.
-├── Data/
-│ ├── steps.csv
-│ ├── exercises.csv
-│ └── patients.csv
-├── src/
-│ └── main.py
-├── output/
-│ └── highest_minutes_patients.csv
-├── README.md
-
 ## Setup Instructions
 1. Clone the repository: `git clone <repository_url>`
 3. Run the Python script: `python src/main.py`
